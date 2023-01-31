@@ -1,0 +1,69 @@
+Lucky Sharma 
+Delhi 
+870835140
+luckysharma2708@gmail.com
+
+Summary
+Self-motivated and hardworking developer seeking for an opportunity to  work in a challenging environment to prove my skills and utilize my  knowledge & intelligence in the growth of the organization.
+
+Skills
+Javascript
+Communication skills
+GIT
+Html5
+CSS
+ReactJS
+Problem Solving
+
+Experience
+Freelancer 
+Freelance                   06/2022 - Present
+
+Education
+Guru Tegh Bahadur Institute of Technology                   B.Tech. Computer Science and Engineering 
+07/2022
+Delhi , Delhi
+CGPA - 8.4
+Shri Rama Bharti High School                   12th CBSE 
+03/2017
+Bahadurgarh , Haryana
+
+Projects
+
+Layout(Drawing app)Layout(Drawing app)
+
+This app is a drawing web application.
+It uses HTML canvas, CSS & Javascript. You can draw free hand and multiple shapes. It is equiped with a color picker to use different colours.This app is a drawing web application. It uses HTML canvas, CSS & Javascript. You can draw free hand and multiple shapes. It is equiped with a color picker to use different colours.
+
+
+Expense TrackerExpense Tracker
+
+As the name suggests it tracks different expenses. You can add your expenses and the expenses of your whole year will be shown month wise on a chart.
+This project is made using HTML, CSS, React.js .As the name suggests it tracks different expenses. You can add your expenses and the expenses of your whole year will be shown month wise on a chart.
+This project is made using HTML, CSS, React.js .
+
+
+Personal PortfolioPersonal Portfolio
+
+Currently working on this app.
+This is my personal portfolio and it showcases my skills and project made by me.Currently working on this app. This is my personal portfolio and it showcases my skills and project made by me.
+
+Veggi ParadiseVeggi Paradise
+
+Currently working on this project.
+It is a website for local restaurant which can listen to orders and side by side process them.
+It uses react.js.
+
+Certificates
+React- The Complete Guide
+Responsive Web Design
+
+Languages
+English
+Hindi
+
+Hobbies
+Cricket
+Table tennis
+Cooking
+Painting
